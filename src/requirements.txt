@@ -1,0 +1,8 @@
+httpx
+edge-tts
+huggingface_hub[inference]
+pydub
+moviepy
+asyncio
+gradio>=4.0.0
+transformers>=4.35.0
